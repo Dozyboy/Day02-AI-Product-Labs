@@ -30,7 +30,7 @@
 
 ---
 
-## Problem Card #1 — Chatbot for major subject
+## Problem Card #1 — Major Subject Exam Chatbot
 
 **Problem 1 câu:**
 SV năm 4 mất 4-5 tiếng chỉ để đọc lại nhiều slide, tài liệu đã được cấp mỗi môn trước khi thi vì quá nhiều slide và tài liệu học tập dài 60-80 trang, không biết phần nào sẽ là phần quan trọng thường sẽ ra đề, phải đọc hết để không bỏ sót.
@@ -102,7 +102,7 @@ Fallback: AI tóm tắt thiếu hoặc sai → SV đọc lại slide hoặc tài
 
 ---
 
-## Problem Card #2 — Ghi lại việc cần làm sau buổi họp nhóm đồ án
+## Problem Card #2 — Post-Meeting Task Follow-up
 
 **Problem 1 câu:**
 Sau mỗi buổi họp nhóm đồ án, không ai ghi lại rõ ràng ai làm gì trước khi nào,
@@ -125,7 +125,7 @@ Cần cả nhóm đồng ý dùng công cụ mới mới, khó thay đổi thói
 
 ---
 
-## Problem Card #3 — Chuẩn bị slide báo cáo đồ án cuối kỳ môn học
+## Problem Card #3 — Final Project Presentation Slide Preparation
 
 **Problem 1 câu:**
 SV mất 3-4 tiếng làm slide báo cáo đồ án cuối kỳ vì phần viết mô tả kết quả
