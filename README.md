@@ -20,7 +20,7 @@ Day02-MãHọcViên-HọVàTên/
 ├── README.md
 ├── 01-individual-problem-scan/
 ├── 02-group-problem-statement/
-└── 03-individual-reflection/
+└── 02-group-problem-statement/
 ```
 
 Trong đó:
